@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  order_code: MyString
+  client_id: MyString
+  address: MyString
+  order_type: false
+  completed: false
+  date: 2023-12-12
+
+two:
+  trip: two
+  order_code: MyString
+  client_id: MyString
+  address: MyString
+  order_type: false
+  completed: false
+  date: 2023-12-12
